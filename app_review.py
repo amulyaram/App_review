@@ -17,6 +17,7 @@ import numpy as np
 import pandas as pd
 import re
 import nltk
+nltk.download('wordnet')
 nltk.download("stopwords")
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
