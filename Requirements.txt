@@ -1,0 +1,6 @@
+1.Numpy
+2.Pandas
+3.nltk
+4.pickle
+5.streamlit
+6.joblib
