@@ -2,4 +2,6 @@ Numpy
 Pandas
 pickle
 streamlit
+nltk
+nltk.stopwords
 joblib
