@@ -16,7 +16,6 @@ warnings.filterwarnings("ignore")
 import numpy as np
 import pandas as pd
 import re
-$ pip install nltk
 import nltk
 nltk.download('punkt')
 nltk.download('all-corpora')
